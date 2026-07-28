@@ -1,8 +1,6 @@
 <div align="center">
 
-# Cybersecurity Analyst. Web Developer.
-
-## Currently Building
+Currently Building
 
 ```text
  ██████╗  ██████╗ ███████╗███████╗ █████╗ ███╗   ███╗███████╗██████╗
@@ -31,15 +29,3 @@
 
 ---
 
-## Design Philosophy
-
-- Lightweight by design
-- Single-file Python tooling
-- Pip-installable
-- CI/CD-first
-- JSON-native reporting
-- Modular, but stronger unified
-
----
-
-> *Software supply chain security built as lightweight tools that work independently—or together.*
