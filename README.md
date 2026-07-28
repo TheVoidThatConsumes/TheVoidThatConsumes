@@ -23,7 +23,7 @@
 |:--------|:------------|:------:|
 | **[tokenwatch](https://github.com/TheVoidThatConsumes/tokenwatch)** | Detects secrets and credential exposure across a repository's entire Git history. | ✅ |
 | **[pipewatch](https://github.com/TheVoidThatConsumes/pipewatch)** | Audits CI/CD pipelines for tampering, insecure workflows, and integrity drift. | ✅ |
-| **VSac, currently ** [*XBOM*](https://github.com/TheVoidThatConsumes/XBOM) | Threat intelligence, dependency analysis, SBOM generation, and vulnerability correlation. | 🚧 |
+| **VSac,** currently [*XBOM*](https://github.com/TheVoidThatConsumes/XBOM) | Threat intelligence, dependency analysis, SBOM generation, and vulnerability correlation. | 🚧 |
 | **Molt** | Configuration drift detection, artifact verification, and container security. | 🚧 |
 | **Web** | Unified dashboard aggregating findings across the GOSSAMER ecosystem. | 🚧 |
 
